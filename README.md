@@ -122,10 +122,46 @@ In Home view, all the views button will be available. User will land on specific
 •	Overall Report
 
 
+<img width="1217" height="677" alt="Overall view" src="https://github.com/user-attachments/assets/51b72dcc-7d79-437a-a08d-48fe1393132f" />
 
 
 
-<img width="1188" height="675" alt="Finance view" src="https://github.com/user-attachments/assets/d638675f-8d03-4edf-8a61-8301453e3615" />
+
+**Finance View**
+
+<img width="1188" height="675" alt="Finance view" src="https://github.com/user-attachments/assets/1a831b77-3ac6-47ef-85c2-87472b23af1b" />
+
+
+
+**Sales View**
+
+<img width="1199" height="678" alt="Sales  View" src="https://github.com/user-attachments/assets/94c19d82-a600-4790-8f7d-cfdb7e01ca11" />
+
+
+
+**Marketing View**
+
+<img width="1215" height="675" alt="Marketing view" src="https://github.com/user-attachments/assets/5a086d57-f250-4e63-871e-25f4edf7d899" />
+
+
+
+
+**Supply chain View**
+
+<img width="1254" height="690" alt="Supply chain view" src="https://github.com/user-attachments/assets/3b69b5cf-c280-455b-aae1-4b591e4c1c6c" />
+
+
+
+
+**Executive View**
+
+<img width="1200" height="675" alt="Executive view" src="https://github.com/user-attachments/assets/aff7d722-2579-471c-a524-56e3f597fffb" />
+
+
+
+
+
+
 
 
 
