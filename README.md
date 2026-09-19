@@ -155,7 +155,11 @@ In Home view, all the views button will be available. User will land on specific
 
 **Executive View**
 
+
 <img width="1200" height="675" alt="Executive view" src="https://github.com/user-attachments/assets/aff7d722-2579-471c-a524-56e3f597fffb" />
+
+
+
 
 
 
