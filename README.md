@@ -119,7 +119,7 @@ In Home view, all the views button will be available. User will land on specific
 •	Support
 
 
-•	Overall Report
+**Overall Report**
 
 
 <img width="1217" height="677" alt="Overall view" src="https://github.com/user-attachments/assets/51b72dcc-7d79-437a-a08d-48fe1393132f" />
